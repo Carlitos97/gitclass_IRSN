@@ -1,6 +1,7 @@
 The Beatles
 (from https://en.wikipedia.org)
 
+
 The Beatles were an English rock band formed in Liverpool in 1960. With members
 John Lennon, Paul McCartney, George Harrison and Ringo Starr, they became
 regarded as the foremost and most influential music band in history. Rooted
@@ -46,6 +47,4 @@ British charts and sold more singles in the UK than any other act. In 2008, the
 group topped Billboard magazine's list of the all-time most successful artists;
 as of 2017, they hold the record for most number-one hits on the Hot 100 chart
 with twenty. They have received seven Grammy Awards, an Academy Award for Best
-Original Song Score and fifteen Ivor Novello Awards. They were also collectively
-included in Time magazine's compilation of the twentieth century's 100 most
-influential people.
+Original Song Score and fifteen Ivor Novello Awards. 
